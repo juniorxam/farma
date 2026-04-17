@@ -2,7 +2,7 @@ name: Deploy para GitHub Pages
 
 on:
   push:
-    branches: ["farma"] # Altere para o nome da sua branch principal
+    branches: ["main"] # Altere para o nome da sua branch principal
 
 permissions:
   contents: read
